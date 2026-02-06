@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 ETL Developer<br>🤖 Automation Databases & System Reliability<br>🚣‍♂️ Kotlin in progress...</p>
+<p align="left">💻 ETL Developer<br>🤖 Automation Databases & System Reliability<br>🏆 Competitive Programming<br>🚣‍♂️ Kotlin in progress...</p>
 
 ###
 
